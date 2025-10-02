@@ -1,0 +1,16 @@
+body {
+    background-color: cornflowerblue;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div {
+width: 200px;
+height: 200px;
+background-color: azure;
+border: 1px solid #000;
+}
